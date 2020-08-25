@@ -1,6 +1,15 @@
 ## React Todo App
 A todo list application built using React JS.
+- [x] Add Todo
+- [x] Delete Todo
+- [x] Check the todo if completed
 
+### Screenshot
+<img src="screenshot/Screenshot.png" width=1020px height=420px>
+
+### Installed Libraries
+- uuid (Used to generate unique Ids)
+- react-router-dom (Contains router components for application).
 
 ## Available Scripts
 
